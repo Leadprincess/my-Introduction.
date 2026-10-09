@@ -1,6 +1,6 @@
 <img width="400" height="8" alt="IMG_9785" src="https://github.com/user-attachments/assets/94d9c66f-d06e-4125-a6fa-5fafb84ef102" />
 
-<img width="200" height="150" alt="Untitled363_20260812174949" src="https://github.com/user-attachments/assets/baa9fb4d-ac19-4541-8d0f-c812aec41b24" /> ${{\color{EABB72}\normalsize{\textsf{𝐋𝐞𝐚𝐝𝐢𝐚'𝐬 𝐈𝐧𝐭𝐫𝐨 ! .}}}}$
+<img width="200" height="150" alt="baa9fb4d-ac19-4541-8d0f-c812aec41b24" src="https://github.com/user-attachments/assets/e5afe8dd-9b4a-4fd2-8397-239bb1718cf3" /> ${{\color{EABB72}\normalsize{\textsf{𝐋𝐞𝐚𝐝𝐢𝐚'𝐬 𝐈𝐧𝐭𝐫𝐨 ! .}}}}$
 
 <img width="400" height="8" alt="IMG_9785" src="https://github.com/user-attachments/assets/2cc3befe-290c-44f4-865e-4b49187a5682" />
 
